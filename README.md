@@ -1,1 +1,1 @@
-Github basics
+Showcase Calculator Assignment-Python Week 1 PLP
